@@ -1,8 +1,9 @@
 ---
 description: Flexpa's company handbook
+coverY: 0
 ---
 
-# Welcome ✌️
+# ✌ Welcome
 
 This is our company handbook. Some of the work we do happens in public. How we operate is part of that.
 
@@ -13,4 +14,3 @@ You can find information here about the **company**, groups/**people**, and **da
 This handbook is public because:
 
 > Public handbooks lead to accountability. It's easier to let an internal wiki rot than it is a handbook which is open to the world.
-

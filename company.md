@@ -2,7 +2,7 @@
 description: What are we building?
 ---
 
-# Company
+# 🤔 What is Flexpa?
 
 ## Dev tools that make launching in digital health easy.
 
@@ -15,4 +15,3 @@ With Health IDs, patients can grant apps permission to access a graph (API) of s
 There are dozens of Health IDs in production and we’re a flexible way for patients to connect to them all.
 
 {% embed url="https://www.loom.com/share/8e0537475c3b46e1a0113d4c4b82b14b" %}
-
