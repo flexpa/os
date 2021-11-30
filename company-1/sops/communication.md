@@ -9,6 +9,6 @@ coverY: 0
 We have two guiding principles in our communication:
 
 1. We like to write things down to remember things and to keep ourselves accountable
-2. Communication styles and tools should be adapted to time/manner/purpose D
+2. Communication styles and tools should be adapted to time/manner/purpose
 
 Different roles at Flexpa require different communication skills but everyone is expected to be good at communicating through writing.

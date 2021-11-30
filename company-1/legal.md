@@ -1,8 +1,8 @@
-# Legal
+# 📜 Legal
 
 ### Official Name
 
-Our official corporate name is Automate Medical Inc.&#x20;
+Our official corporate name is Automate Medical Inc.
 
 ### Street Address
 
