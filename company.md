@@ -4,9 +4,11 @@ description: What are we building?
 
 # 🤔 What is Flexpa?
 
-## Dev tools that make launching in digital health easy.
+![](.gitbook/assets/139943531-6525c47c-fa64-4c15-9406-d515bb27ce1c.png)
 
-### We build open source dev tools that let devs build products with real health data from real patients. Launch, grow and scale with just a few lines of our code.
+## Flexpa is a flexible patient access SDK.
+
+### We help devs build products that are patient-centric.
 
 As of July 1, \~80M US patients can sign-in with a modern accounts/identity mechanisms (OAuth 2.0) from major health insurance plan administrators. These are new kinds of Health IDs.
 

@@ -11,7 +11,7 @@ We traced the recent development of PFT testing standards by the American Thorac
 
 Our work on these early product prototypes culminated in our publication of a [**FHIR Implementation Guide for Pulmonary Function Tests**](https://automate-medical.github.io/pft-ig/). This publication also led us to refocus on developing better dev tooling for the FHIR community and away from a specific focus on PFTs.
 
-By August of year one, we released [**Sero: a set of modern JavaScript Modules for FHIR**](https://www.github.com/flexpa/sero). Flexpa as a product began to crystallize soon after.
+We became increasingly involved in the healthcare standards development community - attending HL7 Connectathons and testing original implementations. By August of year one, we released [**Sero: a set of modern JavaScript Modules for FHIR**](https://www.github.com/flexpa/sero). Flexpa as a product vision began to crystallize soon after.
 
 ## Founders
 
