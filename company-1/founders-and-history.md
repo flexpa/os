@@ -1,4 +1,4 @@
-# Founders and history
+# 📖 Founders and history
 
 ## Brief history
 

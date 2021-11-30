@@ -1,4 +1,4 @@
-# Standups
+# ✋ Standups
 
 ## Goal
 

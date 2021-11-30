@@ -5,7 +5,7 @@
 
 ## Company
 
-* [Founders and history](company-1/founders-and-history.md)
+* [📖 Founders and history](company-1/founders-and-history.md)
 * [🌠 Mission, vision, and values](company-1/mission-vision-and-values.md)
 * [👩💻 Software we use](company-1/software-we-use.md)
 * [✅ Processes](company-1/sops/README.md)

@@ -1,4 +1,4 @@
-# Mission, vision, and values
+# 🌠 Mission, vision, and values
 
 The future belongs to those who show up. We're showing up for a future where you can actually own your health data in the way you own the rest of your digital life (_it is_ _yours after all)_.
 
