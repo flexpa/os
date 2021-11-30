@@ -16,11 +16,11 @@ This is an onboarding checklist for you to follow (and for the people you're wor
 ### Day 1
 
 * [ ] Using your new email account (if you can't access it, ask Josh), use the [self-sign link to join Slack](https://join.slack.com/t/automate-medical/signup)&#x20;
-* [ ] Review the team [software we use](software-we-use.md)
+* [ ] Review the team [software we use](apps.md)
 * [ ] Meet the rest of the team on Slack + Around on your first day
 * [ ] Watch [James Agnew's **Intro to FHIR**](https://www.youtube.com/watch?v=YbQcJj1GqH0). Knowing some basic domain ideas about healthcare data is important for anyone who joins.
 * [ ] Read the short (unfinished) book we wrote called [**Build in Health the Easy Way**](https://docs.sero.run/book/build) **-** this will give you an introduction to some concepts in health tech.
-* [ ] Read our "up to date" pitch for the [Company and what we're building](../company.md) and on [automatemedical.com](https://www.automatemedical.com), this will help you understand what we're working on
+* [ ] Read our "up to date" pitch for the [Company and what we're building](about.md) and on [automatemedical.com](https://www.automatemedical.com), this will help you understand what we're working on
 * [ ] Thomas will email you documentation about getting paid and other employment requirements to the yourname@flexpa.com address
 
 ### Week 1
