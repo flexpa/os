@@ -11,14 +11,17 @@ description: Join our team!
 We advertise positions publicly and accept applications via:
 
 1. Personal referrals
-2. [AngelList](https://angel.co/company/automate-medical)
-3. [jobs@automatemedical.com](mailto:jobs@automatemedical.com)
+2. [jobs@automatemedical.com](mailto:jobs@automatemedical.com)
 
 ### What roles are you hiring for?
 
-View open roles on our careers profile on AngelList:
+{% content-ref url="software-developer.md" %}
+[software-developer.md](software-developer.md)
+{% endcontent-ref %}
 
-{% embed url="https://angel.co/company/automate-medical" %}
+{% content-ref url="product-designer.md" %}
+[product-designer.md](product-designer.md)
+{% endcontent-ref %}
 
 ## [🤔](https://emojipedia.org/thinking-face/) How does hiring work?
 

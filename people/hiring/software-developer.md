@@ -1,15 +1,11 @@
-# Founding team software developer
-
-{% hint style="info" %}
-This is a template for our software developer role - active roles are posted on AngelList
-{% endhint %}
+# Software developer
 
 We are building a flexible patient access SDK called Flexpa.
 
 As of July, millions of American patients can now give app developers access to their health plan data. Flexpa is the easiest way to get started. Use cases for Flexpa include instant health plan verification, explanation of benefits checks, and speed of access to health records from patients directly.
 
 * Company formed at start of 2021 by ex-YC founder group of 3
-* You will become a founding team member **** and help us launch our development kit
+* You will become a founding team member Flexpa and help us launch our development kit
 * You will alter the trajectory of our work, rapidly prototype, and strive to be word-class in your contributions
 * We will pay you competitively and give you lots of creative/maker time
 * You will gain (or already have) expert level skills in health information systems and protocols
@@ -32,4 +28,4 @@ Our current stack includes:
 
 You can see some of our open source work publicly on [GitHub](http://github.com/automate-medical/sero) and at [docs.sero.run](http://docs.sero.run)
 
-Apply on AngelList or by emailing [jobs@automatemedical.com](https://www.automatemedical.com)
+Apply by emailing [jobs@automatemedical.com](https://www.automatemedical.com)
