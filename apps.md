@@ -6,7 +6,7 @@ We use software selectively and intentionally. This list is designed to be exhau
 | -------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | 🔑 1Password   | Password manager                                            | [Self-sign up](https://flexpa.1password.com/teamjoin/invitation/OUXDZTEOCZA57E2QDLGVJNZICY) |
 | ✉️ Google Apps | Identity, Email, Sheets, Docs, and Calendar                 | Onboarding task (CTO)                                                                       |
-| 📚 Gitbook     | Knowledge management                                        | Onboarding task (CTO)                                                                       |
+| 📚 Gitbook     | Knowledge management                                        | [Self-sign up](https://www.gitbook.com) (use @flexpa.com account)                           |
 | 📥 Slack       | Messaging and chat                                          | [Self-sign up](https://join.slack.com/t/automate-medical/signup)                            |
 | 👨‍💻 Github   | Public and private code repositories and project management | Onboarding task (CTO)                                                                       |
 | 🎙 Loom        | Screen recording                                            | Onboarding task (CTO)                                                                       |

@@ -16,11 +16,13 @@ This is an onboarding checklist for you to follow (and for the people you're wor
 ### Day 1
 
 * [ ] Using your new email account (if you can't access it, ask Josh), use the [self-sign link to join Slack](https://join.slack.com/t/automate-medical/signup)&#x20;
-* [ ] Review the team [software we use](apps.md)
-* [ ] Meet the rest of the team on Slack + Around on your first day
-* [ ] Watch [James Agnew's **Intro to FHIR**](https://www.youtube.com/watch?v=YbQcJj1GqH0). Knowing some basic domain ideas about healthcare data is important for anyone who joins.
-* [ ] Read the short (unfinished) book we wrote called [**Build in Health the Easy Way**](https://docs.sero.run/book/build) **-** this will give you an introduction to some concepts in health tech.
-* [ ] Read our "up to date" pitch for the [Company and what we're building](about.md) and on [automatemedical.com](https://www.automatemedical.com), this will help you understand what we're working on
+* [ ] Review the team [software we use](apps.md), sign up for Gitbook and other team tools
+* [ ] Meet the rest of the team on Slack + Around on your first day (you will get an invite)
+* [ ] Watch [James Agnew's **Intro to FHIR**](https://www.youtube.com/watch?v=YbQcJj1GqH0). Knowing some basic domain ideas about healthcare data is important for anyone who joins and you should spend time learning about FHIR and HL7 standards. [**Sign up for FHIR Chat**](https://chat.fhir.org) - it's the best place to ask questions in this domain to developers.
+* [ ] Read the short (unfinished) book we wrote called [**Build in Health the Easy Way**](https://docs.sero.run/book/build) **-** this will give you an introduction to some concepts in health tech. Find other materials to follow like [Brendan Keeler's Health API Guy Substack](https://healthapiguy.substack.com).
+* [ ] Read our "up to date" pitch for the [Company and what we're building](about.md) and on [automatemedical.com](https://www.automatemedical.com), this will help you understand what we're working on.
+* [ ] Review our company-wide "[Quest log](https://github.com/orgs/flexpa/projects/1)" (project board) on Github - bookmark this page. See what people are working on here. Check out the #standup room on Slack for a sense of what people have been working on.
+* [ ] Review the [`Processes`](sops/) we have (for things like operational procedures).&#x20;
 * [ ] Thomas will email you documentation about getting paid and other employment requirements to the yourname@flexpa.com address
 
 ### Week 1
