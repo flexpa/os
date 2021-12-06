@@ -15,6 +15,7 @@
 ## people
 
 * [💼 Hiring](people/hiring/README.md)
+  * [Chief of Staff to the Founding Team](people/hiring/chief-of-staff-to-the-founding-team.md)
   * [Product designer](people/hiring/product-designer.md)
   * [Software developer](people/hiring/software-developer.md)
   * [Co-op](people/hiring/co-op.md)
