@@ -1,7 +1,5 @@
 ---
 description: Flexpa's company handbook
-coverY: 0
-cover: .gitbook/assets/Twitter-header-05.jpg
 ---
 
 # ✌ Welcome
