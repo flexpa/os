@@ -1,8 +1,6 @@
 # ✌ Welcome
 
-This is our company handbook. Some of the work we do happens in public. How we operate is part of that.
-
-This handbook was inspired by [Gitlab's handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/).
+This is our company operating system (a.k.a. handbook). Some of the work we do happens in public. How we operate is part of that.
 
 You can find information here about the **company**, groups/**people**, and **day to day operations** or Standard Operating Procedures (SOPs).
 
@@ -10,6 +8,7 @@ This handbook is public because:
 
 > Public handbooks lead to accountability. It's easier to let an internal wiki rot than it is a handbook which is open to the world.
 
+- [Gitlab Handbook](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)
 
 ## Table of contents
 
