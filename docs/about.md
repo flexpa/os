@@ -4,7 +4,7 @@ description: What are we building?
 
 # 🛰 About Flexpa
 
-## Flexible patient access.
+## Refactoring healthcare.
 
 Simplify health plan access and onboarding. Ready to use with Medicare Advantage.
 
