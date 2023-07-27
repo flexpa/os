@@ -6,6 +6,7 @@
 * [🛰 About Flexpa](docs/about.md)
 * [📚 Founders](docs/founders.md)
 * [🌠 Mission](docs/mission.md)
+* [🔍 What makes a Flexpal?](docs/what-makes-a-flexpal.md)
 
 ### Process
 * [🤝 1:1s](docs/process/1-1s.md)
