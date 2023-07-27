@@ -11,3 +11,6 @@ At Flexpa, our mission is to refactor healthcare, and we believe that well-speci
 4. **All meetings should have outputs when appropriate.** Typical examples include sending a summary of key points, decisions, action items, and responsibilities to participants and stakeholders. Monitoring progress, supporting action item implementation, and holding individuals accountable for their commitments is essential. Strongly consider defaulting to sharing these outputs in public places such as Slack channels following the meeting.
 
 It is essential to remember that meetings should serve as a means to achieve our goals rather than as an end. If a Flexpal thinks a meeting is necessary, they can call one, but our goal is always to strive to avoid unnecessary time wastage. If a Flexpal is in a meeting they believe isn’t necessary, we believe they should feel empowered to leave it. Our mission is to refactor healthcare, not waste time in meetings talking about refactoring healthcare.
+
+## See also
+* [🤝 1:1s](./1-1s.md)
