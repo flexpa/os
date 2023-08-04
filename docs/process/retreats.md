@@ -10,3 +10,33 @@ Additionally, the retreats offer us a dedicated space for strategic discussions.
 Lastly, the retreats are a great way to finalize our OKRs for the next quarter. Through comprehensive discussions and input from the entire team, we define ambitious objectives and key results that propel us forward. These goals guide our efforts, helping us measure progress and stay focused on our mission to refactor healthcare. We also vote as a team on the location of the next retreat.
 
 As a remote-first organization, our quarterly in-person retreats are the heartbeat of our operational and cultural framework. Through these retreats, we cultivate a strong sense of camaraderie, nurture collaboration, provide the space for strategic discussions, and align on ambitious objectives to drive our mission of refactoring healthcare. The retreats play an integral role in propelling our company forward, ensuring that we remain focused, motivated, and united in transforming the healthcare landscape forever.
+
+## Planning 
+
+Preparation for a Flexpa Retreat happens at the start of each quarter. As soon the location for the next retreat is known, we start searching for a place to stay and host the retreat. 
+
+**By the end of the first month of each quarter, we aim to have the following completed:** 
+
+* Housing accommodations booked
+* Flights purchased 
+* List of attendees finalized
+
+**By mid-quarter (6 weeks in), we aim to have the following completed:** 
+
+* agenda drafted 
+* Shortlist of afternoon/evening activities created 
+
+**By the end of the second month of the quarter or two weeks before the retreat, we aim to have the following completed:** 
+
+* Meals / catering orders submitted and confirmed 
+* Finalized Agenda 
+* Rough draft of the following quarter’s OKRs 
+
+**Housing accommodations must have:**
+
+* 1 room per person (utilizing Airbnb, Vrbo, or other short-term rental platform) 
+* Multiple bathrooms 
+* A large dining table that seats 10+ people 
+* Decent reviews, no red flags 
+* Fast wifi speed and reliability 
+* Proximity to activities and resources (grocery stores, etc) 
