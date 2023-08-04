@@ -13,7 +13,7 @@ As a remote-first organization, our quarterly in-person retreats are the heartbe
 
 ## Planning 
 
-Preparation for a Flexpa Retreat happens at the start of each quarter. As soon the location for the next retreat is known, we start searching for a place to stay and host the retreat. 
+Preparation for a Flexpa Retreat happens at the start of each quarter. As soon as the location for the next retreat is known, we start searching for a place to stay and host the retreat. 
 
 **By the end of the first month of each quarter, we aim to have the following completed:** 
 
