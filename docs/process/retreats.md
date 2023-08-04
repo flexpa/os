@@ -23,7 +23,7 @@ Preparation for a Flexpa Retreat happens at the start of each quarter. As soon a
 
 **By mid-quarter (6 weeks in), we aim to have the following completed:** 
 
-* agenda drafted 
+* Agenda drafted 
 * Shortlist of afternoon/evening activities created 
 
 **By the end of the second month of the quarter or two weeks before the retreat, we aim to have the following completed:** 
