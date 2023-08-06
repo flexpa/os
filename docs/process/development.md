@@ -50,7 +50,7 @@ A pull request must be created on GitHub. Each pull request must (don't worry th
 
 After all checks are verified passing pull requests can be **Squashed and merged by the assignee.**&#x20;
 
-![](<../../assets/merge.png>)
+![](<../assets/merge.png>)
 
 ### Changelog
 

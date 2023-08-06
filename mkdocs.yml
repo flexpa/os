@@ -3,13 +3,13 @@ site_url: https://os.flexpa.com
 theme:
   name: material
   palette:
-    scheme: default
-    primary: green
-    accent: green
+    scheme: flexpa
   logo: assets/logo.png
   features:
     - navigation.sections
     - content.action.edit
+extra_css:
+  - stylesheets/flexpa.css
 extra:
   homepage: https://flexpa.com
   generator: false
