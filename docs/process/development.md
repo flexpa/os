@@ -81,8 +81,9 @@ Kanban is integrated with sprints at Flexpa, where work is planned and committed
 * The Next tab of the  #product board represents the upcoming week-long sprint
 * Github Issues have the “Week” attribute to delineate the sprint.
 
+## Development Processes
 
-#### Pull Request
+### Pull Request
 **Purpose**: The solution to Issues. Pull requests are proposed changes to the codebase that are reviewed by other team members. They provide a structured way to introduce new features, fix bugs, or make other changes to the project. Pull requests also help us satisfy change management policies. Pull requests should:
 
 * Require **at least one approval** from another contributor. Requests for reviews appear in #git.
@@ -113,17 +114,17 @@ Pull Request descriptions follow a standard template, similar to Issues:
 * Screenshots
 ```
 
-#### Peer Reviews
+### Peer Reviews
 **Purpose**: Peer reviews function as a quality assurance check, improve the cohesiveness of our codebase, and also form an important security control preventing unilateral changes.
 
 **Output**: Flexpa requires at least one approving review to merge a pull request. Mostly, anyone who is an active contributor (i.e. part of the product team) can complete a peer review. Peer reviews can end with either a comment, approval, or request for changes. We bias towards identifying feedback as “blocking” or “non-blocking”. Peer reviews are not individually assigned automatically but may be individually requested.
 
-#### Status Checks / CICD
+### Status Checks / CICD
 **Purpose**: Status checks on a pull request are automated tests and validations that ensure the proposed code changes meet specific criteria before merging, such as the build working or tests passing. By enforcing these checks, we maintain code quality and prevent potential issues from being integrated into the monorepo. Any time we have a “checklist” item required to merge or do a deployment, we try to build that into our automated status checks.
 
 **Output**: Status checks appear on every pull request. They are configured in the monorepo at .github/workflows. Status checks that do not pass prevent pull requests from being merged.
 
-#### Merging
+### Merging
 **Purpose**: Merging is the final event of our product development process. Merging, also known as “shipping”, is performed on individual pull requests once they have received an approving review and all status checks are passing. 
 
 **Output**: The author of a pull request has the responsibility to merge the pull request. Unless explicitly requested, individual contributors should never merge a pull request on behalf of someone else. This is critically important because after the merge it is similarly the responsibility of the author to verify the successful deployment of the code. When merging, commit messages follow a standard format:
@@ -148,33 +149,6 @@ To write a changelog entry, keep in mind the following order:
 
 * The very first sentence of the changelog should be exactly "what" has changed. This should be as clear as possible.
 * Additional context, like a "why", _must_ follow though. We use the changelog to provide written cues for the rest of the team to understand / announce the feature / talk about it consistently with customers.
-
-### Systems hardening
-
-Systems hardening means taking a methodological approach to the security and integrity of our information technology systems.&#x20;
-
-There are several types of system hardening activities, including:
-
-* Application hardening
-* Server hardening
-
-For each of these types, Flexpa takes (but is not limited to) the hardening measures described below.
-
-#### Application hardening
-
-* Detect dependency drift through automation
-* Unused dependencies should be removed
-* Unnecessary dependencies should not be added
-* Prioritize and patch vulnerabilities
-* Static code analysis should be used to detect common vulnerabilities
-
-#### Server hardening
-
-* Systems should be deployed in designated environments
-* Systems should be segregated
-* Rights and access should be in line with the principle of least privilege
-* Network ports should be universally disabled and allow-listed only as appropriate/necessary
-* Network traffic should be encrypted
 
 ## Meetings
 ### Weekly
@@ -258,13 +232,14 @@ Details on pairing here.
 
 **Output**: A milestone which consists of a set of issues with a goal completion date assigned to individual contributors. There should be a clear understanding of who is working on what, within the context of the project.
 
-### Former Processes
-#### Goals
+## Former Processes
+### Goals
 **Purpose**: Goals were groupings of issues. Goals detail the overall arc of an initiative, whereas the individual Issues document discrete, atomic work to be done. Goals have largely been superseded by Milestones.
 
 **Output**: Github Goals are a type of Github Issue we create to document these larger initiatives.
 
-#### RFCs
+### RFCs
+
 **Purpose**:   Requests for Comment were a type of issue intended to solicit broad feedback on overarching architectural proposals or principles. They did not typically have a strong timebound nature and were somewhat open-ended. 
 
 **Output**: The output would be the discussion and decisions that formed in the issue. However, RFCs lack of time sensitivity and priority led to many never formally resolving.
