@@ -19,15 +19,15 @@ This document exists as a comprehensive version of Flexpa's product development 
 ```
 
 Issues come from several sources:
-* OKR items - Cross-functional collaboration on quarterly OKRs is central at Flexpa and drives the majority of the work we do.
-* Roadmap items - Work related to longer initiatives derived from the roadmap are broken down into issues using milestones
+* **OKR items** - Cross-functional collaboration on quarterly OKRs is central at Flexpa and drives the majority of the work we do.
+* **Roadmap items** - Work related to longer initiatives derived from the roadmap are broken down into issues using milestones
   * We use tags specific to each initiative to organize these, such as `prom`
-* Customer Request - Explicit asks from customers for features that can be fulfilled short term. 
+* **Customer Request** - Explicit asks from customers for features that can be fulfilled short term. 
   * These should be tagged with the `customer` tag
-* Support Request - Explicit asks from customers or prospects for assistance or bug resolution that requires development
-* Internal Requests - Asks from Flexpa team members for features to reduce toil or improve work efficiency
-* Monitoring - Issues may be generated from logging, observability, and other tooling we have, typically focused around exceptions and errors
-* Implementer Insight - In the course of writing software, it’s very common to be writing code and realize that other code could be written.
+* **Support Requests** - Explicit asks from customers or prospects for assistance or bug resolution that requires development
+* **Internal Requests** - Asks from Flexpa team members for features to reduce toil or improve work efficiency
+* **Monitoring** - Issues may be generated from logging, observability, and other tooling we have, typically focused around exceptions and errors
+* **Implementer Insight** - In the course of writing software, it’s very common to be writing code and realize that other code could be written.
 
 Special Consideration: Not every request becomes an issue. Those that would require a quarter or more of work or represent a new product are treated differently.
 
@@ -265,7 +265,6 @@ Details on pairing here.
 **Output**: Github Goals are a type of Github Issue we create to document these larger initiatives.
 
 #### RFCs
-
 **Purpose**:   Requests for Comment were a type of issue intended to solicit broad feedback on overarching architectural proposals or principles. They did not typically have a strong timebound nature and were somewhat open-ended. 
 
 **Output**: The output would be the discussion and decisions that formed in the issue. However, RFCs lack of time sensitivity and priority led to many never formally resolving.
