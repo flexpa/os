@@ -94,14 +94,15 @@ Kanban is integrated with sprints at Flexpa, where work is planned and committed
 
 **Output**: Pull requests in Github. These requests include the code changes, a description of what has been done, and why, and often a link back to the related issue. They provide an opportunity for other team members to review and comment on the proposed changes before they are merged into the main codebase.
 
-Pull Request titles follow a standard format:
+Pull Request titles follow [a standard format](https://www.conventionalcommits.org/en/v1.0.0/#summary):
 ```
-feat|chore|bug(project): Description
+feat|chore|fix(project): Description
 ```
 Where:
+
 * **feat**: A new feature introduced in the codebase. This is typically a change that adds functionality or improves user experience.
 * **chore**: Maintenance or routine tasks that need to be performed, like code refactoring or updating dependencies. This doesn't change the application's functionality but keeps the codebase healthy and up-to-date.
-* **bug**: A fix to a known defect in the code. This addresses problems that are causing incorrect behavior or other unexpected results.
+* **fix**: A fix to a known defect in the code. This addresses problems that are causing incorrect behavior or other unexpected results.
 
 Pull Request descriptions follow a standard template, similar to Issues:
 ```
