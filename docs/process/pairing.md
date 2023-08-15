@@ -24,7 +24,7 @@ We have found three axes helpful in answering this question:
 * Scheduled vs. ad hoc
 * Unblocking a problem vs. exploring a problem space
 
-It is typical of pair programming to have two roles: a **driver **(the person with control of the editor) and a **navigator_ _**(the person keeping track of where we are, giving immediate feedback and information to the driver). 
+It is typical of pair programming to have two roles: a **driver** (the person with control of the editor) and a **navigator** (the person keeping track of where we are, giving immediate feedback and information to the driver). 
 
 It is good practice to be explicit about declaring which role each person is taking at the start of a pair.
 It is similarly good practice to switch roles during the pair. 
@@ -41,7 +41,7 @@ Consider asking “is now still a good time to pair?” when you begin.
 The only pair you are obliged to accept is one with the CTO.
 That said, if you find yourself never offering or accepting a pair don’t be surprised to hear feedback about teamwork.
 
-Finally, deciding whether you are **unblocking a problem** vs. **exploring a problem space **can have big impact on the work of a pair.
+Finally, deciding whether you are **unblocking a problem** vs. **exploring a problem space** can have big impact on the work of a pair.
 Unblocking requires extreme clarity about what exactly the problem is.
 If you bring a problem to your pair you should strongly consider providing details in advance.
 Lack of preparation and clarity of thought signals disengagement from the very start.
