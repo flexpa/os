@@ -135,8 +135,8 @@ feat|chore|fix(project): Title matching pull request title
 
 A single, tidy commit description (do not merge multiple commit descriptions without editing)
 
-Co-authored-by: <coauthor@flexpa.com>
-Co-authored-by: <another-coauthor@flexpa.com>
+Co-authored-by: Coauthor Name <coauthor@flexpa.com>
+Co-authored-by: Coauthor Name <another-coauthor@flexpa.com>
 ```
 
 ### Changelog
