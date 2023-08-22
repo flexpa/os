@@ -35,11 +35,8 @@ This is a trap that is easy to fall into as a navigator and must be consciously 
 **Scheduled** pairs are straightforward: you agree to a time in advance.
 **Ad hoc** pairs happen immediately.
 You must actively communicate personal preferences and performance factors when being asked to pair. 
-
 Do not accept invites or requests to pair if you _know_ you are not going to be an active, great communicator.
 Consider asking “is now still a good time to pair?” when you begin.
-The only pair you are obliged to accept is one with the CTO.
-That said, if you find yourself never offering or accepting a pair don’t be surprised to hear feedback about teamwork.
 
 Finally, deciding whether you are **unblocking a problem** vs. **exploring a problem space** can have big impact on the work of a pair.
 Unblocking requires extreme clarity about what exactly the problem is.
