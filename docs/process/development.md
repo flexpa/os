@@ -3,7 +3,6 @@ This document exists as a comprehensive version of Flexpa's product development 
 
 <figure><img src="../../.gitbook/assets/product-flow.jpg" alt=""><figcaption></figcaption></figure>
 
-
 ## Ideation and Prioritization Processes
 ### Issues
 **Purpose**: The atomic unit of work in our development process. Issues are the ideas - features, bugs, and backlog items to be planned. Issues are closed by PRs or when they are no longer relevant. 
@@ -12,13 +11,17 @@ This document exists as a comprehensive version of Flexpa's product development 
 
 ```
 ## Why
-* Why we are making a change
+
+- You should fill this section with why we should do this work. All relevant background and context.
+- It is on the issue writer (or other contributing authors) to explain importance in this section.
 
 ## What
-* What we are changing and how the change is being completed
+
+- Outline the specific deliverables, tasks, or objectives that will be achieved upon completing the issue.
+- This will vary to some degree, but may include specifications, user stories, acceptance requirements
 
 ## How
-* The implementation specifics, if applicable
+* Proposed implementation specifics to be used in linked PR, if applicable
 ```
 
 Issues come from a variety of sources, including but not limited to:
@@ -115,15 +118,16 @@ Where:
 * **chore**: Maintenance or routine tasks that need to be performed, like code refactoring or updating dependencies. This doesn't change the application's functionality but keeps the codebase healthy and up-to-date.
 * **fix**: A fix to a known defect in the code. This addresses problems that are causing incorrect behavior or other unexpected results.
 
-Pull Request descriptions follow a standard template, similar to Issues:
+Pull Request descriptions follow a standard template:
 ```
 ## Why
 * Reference to the related Issue using #issue syntax with automation keywords such as Closes
 
-## What
-* A brief description of the code changed, typically taken exactly from the commit description
+## How
+* Implementation details. Often a brief description of the code changed, typically taken exactly from the commit description
 * Testing notes 
 * Screenshots
+* Tradeoffs
 ```
 
 ### Peer Reviews
