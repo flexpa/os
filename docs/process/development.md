@@ -24,6 +24,8 @@ This document exists as a comprehensive version of Flexpa's product development 
 * Proposed implementation specifics to be used in linked PR, if applicable
 ```
 
+Labels exist in Github and will vary over time. Labels are intended for use primarily with issues and not PRs.
+
 Issues come from a variety of sources, including but not limited to:
 * **OKR items** - Cross-functional collaboration on quarterly OKRs is central at Flexpa and drives the majority of the work we do.
 * **Roadmap items** - Work related to longer initiatives derived from the roadmap are broken down into issues using milestones
