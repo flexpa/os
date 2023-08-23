@@ -1,6 +1,9 @@
 # 💾 Product Development
 This document exists as a comprehensive version of Flexpa's product development process, including meetings, artifacts, and workflows.
 
+<figure><img src="../../.gitbook/assets/product-flow.jpg" alt=""><figcaption></figcaption></figure>
+
+
 ## Ideation and Prioritization Processes
 ### Issues
 **Purpose**: The atomic unit of work in our development process. Issues are the ideas - features, bugs, and backlog items to be planned. Issues are closed by PRs or when they are no longer relevant. 
@@ -18,7 +21,7 @@ This document exists as a comprehensive version of Flexpa's product development 
 * The implementation specifics, if applicable
 ```
 
-Issues come from several sources:
+Issues come from a variety of sources, including but not limited to:
 * **OKR items** - Cross-functional collaboration on quarterly OKRs is central at Flexpa and drives the majority of the work we do.
 * **Roadmap items** - Work related to longer initiatives derived from the roadmap are broken down into issues using milestones
   * We use tags specific to each initiative to organize these, such as `prom`
@@ -67,19 +70,28 @@ See also: [OKRs](https://github.com/flexpa/os/blob/master/docs/process/okrs.md)
 ### Kanban Board
 **Purpose**: Work is organized using Kanban. Kanban is a visual tool that helps in the management of workflow, emphasizing continuous delivery without overloading the team members. 
 
-* **On deck**: This is typically where new issues are captured. New Github issues are placed here as they are created.
+* **Backlog**: New Github issues are placed here as they are created. Backlog issues should not show up on the main Kanban Board
+* **Ready**: Issues that are triaged and next up to be worked if "Next" is completed. Not necessarily assigned, but otherwise ready to go and important. 
+* **Next**: Issues that have been assigned and are expected to be the next most immediate thing. Only ever a few per person. Expected to be done "soon". Always answers the question "What's next"
 * **In Progress**: Issues that are currently being worked on by team members. This might include any issue that is actively being worked on but hasn't been completed.
 * **In Review**: Once an issue has been completed, it can be moved to a review phase where other team members can assess the work. See Peer Reviews below.
 * **Shipped**: Once the issue has one or more PRs that solve it, it can be moved to the Shipped column, indicating successful completion.
 * **Closed**: Some issues, upon investigation and work, may be completed without shipping code. This may be due to re-evaluation of the value of the work as part of the investigation, change in priorities, or non-technical solutions to the problem.
 
-Kanban is integrated with sprints at Flexpa, where work is planned and committed to for a set period (a week, in this case). This provides a structure and cadence to the work, while still maintaining the flexibility and visibility that Kanban offers. Sprint outcomes are discussed each week in Product EOW.
-
 **Output**: 
 * The Github Project #product board contains all active and near-term work
-* The Current tab of the #product board represents the current week-long sprint
-* The Next tab of the  #product board represents the upcoming week-long sprint
-* Github Issues have the “Week” attribute to delineate the sprint.
+* The Current tab of the #product board represents the current work in-flight
+
+### Backlogs
+**Purpose**: Backlogs serve as a repository of work that hasn't been started yet but has been deemed necessary or valuable. They help in prioritizing future work, capturing ideas that might get overlooked otherwise, and ensuring that there's always a pipeline of tasks to pick from. 
+
+**Output**: Prioritized lists of issues that are deemed necessary for the product but have not yet been scheduled for development. These are separated onto specific boards in Github Projects.
+
+* Organized by priority - ensuring the most valuable items are tackled first.
+* Continuously refined and reprioritized based on the evolving needs of users and business dynamics.
+* Issues in the backlog should be in the "Backlog" or "On Deck" status.
+
+Specific boards are created around different larger initiatives to organize work, such as a product initiative from OKRs or a customer driven need. These are typically further organized using Milestones.
 
 ## Development Processes
 
@@ -96,12 +108,12 @@ Kanban is integrated with sprints at Flexpa, where work is planned and committed
 
 Pull Request titles follow a standard format:
 ```
-feat|chore|bug(project): Description
+feat|chore|fix(project): Description
 ```
 Where:
 * **feat**: A new feature introduced in the codebase. This is typically a change that adds functionality or improves user experience.
 * **chore**: Maintenance or routine tasks that need to be performed, like code refactoring or updating dependencies. This doesn't change the application's functionality but keeps the codebase healthy and up-to-date.
-* **bug**: A fix to a known defect in the code. This addresses problems that are causing incorrect behavior or other unexpected results.
+* **fix**: A fix to a known defect in the code. This addresses problems that are causing incorrect behavior or other unexpected results.
 
 Pull Request descriptions follow a standard template, similar to Issues:
 ```
@@ -156,13 +168,13 @@ To write a changelog entry, keep in mind the following order:
 * **Date**: Every Monday
 * **Time**: 12:00EST - 1:00 EST
 
-**Purpose**: Identify problems that need more clarity. Addressing any blockers or dependencies. To prioritize upcoming work (at least next week and beyond) and who will be responsible.
+**Purpose**: Review new issues and collaboratively prioritize. Identify problems that need more clarity. Address any blockers or dependencies. Prioritize upcoming work (at least next week and beyond) and who will be responsible.
 
-**Output**: The primary outputs of this meeting are Github Issues of various kinds: issues that have moved into a “ready” state, issues that need to be further edited, issues that weren’t written down now are.
+**Output**: The primary outputs of this meeting are Github Issues of various kinds: issues that have moved into a "on deck" state, issues that need to be further edited, and issues that weren’t written down now are.
 
 #### Product EOW
-* **Date**: Every Friday
-* **Time**: 3:30EST - 4:30 EST
+* **Date**: A section in Flexpa Town Hall every Friday
+* **Time**: 4:00EST - 4:30 EST
 
 **Purpose**: Public commitment to work to allow for better planning. Ensuring accountability (that commitments are met). Promoting cross-functional awareness of key work and progress - GTM, user testing, and product. To celebrate wins and collaboration across the team. 
 
@@ -183,7 +195,7 @@ To write a changelog entry, keep in mind the following order:
 * Recent roadblocks
 * Customer input
 
-**Output**: Recording, notes, issues.
+**Output**: Recording, notes, new issues.
 
 #### HOP <> HOD Review
 
@@ -193,12 +205,11 @@ To write a changelog entry, keep in mind the following order:
 **Purpose**: Product and Design have heavy collaboration and overlap. Regular thought partnership and brainstorming accelerate and align each other’s work.
 
 Typical agenda items are:
-* KACHUA review
-* User testing issues
+* User testing review and issues
 * Design considerations for the upcoming roadmap
 * Product ideation
 
-**Output**: Meeting notes, varied tactical decisions, and progress
+**Output**: Meeting notes, varied tactical decisions, and issue creation
 
 #### CTO Pairing
 * **Duration**: 60 to 90 minutes
@@ -243,3 +254,8 @@ Details on pairing here.
 **Purpose**:   Requests for Comment were a type of issue intended to solicit broad feedback on overarching architectural proposals or principles. They did not typically have a strong timebound nature and were somewhat open-ended. 
 
 **Output**: The output would be the discussion and decisions that formed in the issue. However, RFCs lack of time sensitivity and priority led to many never formally resolving.
+
+### Iterations
+**Purpose**: Kanban was integrated with sprints at Flexpa, where work is planned and committed to for a set period (a week, in this case). This provides a structure and cadence to the work, while still maintaining the flexibility and visibility that Kanban offers. Sprint outcomes are discussed each week in Product EOW.
+
+**Output**: We removed iterations because it was serving as a proxy for "when the work was completed" and obstructing a pure Kanban approach to development. Work is still reviewed during Flexpa Town Hall.
