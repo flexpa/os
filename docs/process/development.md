@@ -241,12 +241,12 @@ Typical agenda items are:
 **Output**:  Ongoing notes. Action items on specific regulatory changes as needed.
 
 ### Ad-hoc
-#### Design review & scoping
+#### Design review meeting
 * **Duration**: As long as it takes (typically starting with 90 minutes)
 
 **Purpose**: To denmark the end of large scope design work for a project (small tweaks, edge cases, etc can still be flushed out after meeting), and review user flows and questions with wider product team. It is expected that intermittent discussions and reviews with the product and technical teams take place prior to this meeting via Figma comments or Slack threads. However, there is still a time when development needs to start, and a formal review meeting with the relevant parties is called. To make the most of this meeting, designer should resolve as many questions as possible via Figma comments, slack discussions, and individual research ahead of time, and reserve synchronous time to meatier discussions.
 
-**Output**: Scoping decisions on work with a rough outline of Milestones. It's possible, if the team feels ready, that the first Milestone meeting takes place during this session, pending attendee discussion and decisions.
+**Output**: Decisions on outstanidng Figma comments with to-dos for designer to make adjustments to the designs. If no major changes need to be made (which they shouldn't, if regular conversations were had beforehand) then the meeting transitions to a Milestone meeting. 
 
 
 #### Milestone planning
