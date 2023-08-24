@@ -20,6 +20,7 @@
 * [🛫 Off-boarding](docs/process/offboarding.md)
 * [🚦 OKRs](docs/process/okrs.md)
 * [🛬 Onboarding](docs/process/onboarding.md)
+* [👥 Pairing](docs/process/pairing.md)
 * [🔥 Referrals](docs/process/referrals.md)
 * [🏠 Remote First](docs/process/remote-first.md)
 * [🏞️ Retreats](docs/process/retreats.md)
