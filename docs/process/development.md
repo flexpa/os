@@ -105,14 +105,14 @@ Kanban is integrated with sprints at Flexpa, where work is planned and committed
 
 **Output**: Pull requests in Github. These requests include the code changes, a description of what has been done, and why, and often a link back to the related issue. They provide an opportunity for other team members to review and comment on the proposed changes before they are merged into the main codebase.
 
-Pull Request titles follow a standard format:
+Pull Request titles follow [a standard format](https://www.conventionalcommits.org/en/v1.0.0/#summary):
 ```
-feat|chore|bug(project): Description
+feat|chore|fix(project): Description
 ```
 
 * **feat**: A new feature introduced in the codebase. This is typically a change that adds functionality or improves user experience.
 * **chore**: Maintenance or routine tasks that need to be performed, like code refactoring or updating dependencies. This doesn't change the application's functionality but keeps the codebase healthy and up-to-date.
-* **bug**: A fix to a known defect in the code. This addresses problems that are causing incorrect behavior or other unexpected results.
+* **fix**: A fix to a known defect in the code. This addresses problems that are causing incorrect behavior or other unexpected results.
 
 Pull Request descriptions follow a standard template, similar to Issues:
 ```
@@ -138,14 +138,15 @@ Pull Request descriptions follow a standard template, similar to Issues:
 ### Merging
 **Purpose**: Merging is the final event of our product development process. Merging, also known as “shipping”, is performed on individual pull requests once they have received an approving review and all status checks are passing.
 
-**Output**: The author of a pull request has the responsibility to merge the pull request. Unless explicitly requested, individual contributors should never merge a pull request on behalf of someone else. This is critically important because after the merge it is similarly the responsibility of the author to verify the successful deployment of the code. When merging, commit messages follow a standard format:
+**Output**: The author of a pull request has the responsibility to merge the pull request. Unless explicitly requested, individual contributors should never merge a pull request on behalf of someone else. This is critically important because after the merge it is similarly the responsibility of the author to verify the successful deployment of the code. When merging, commit messages follow [a standard format](https://www.conventionalcommits.org/en/v1.0.0/#summary):
 
 ```
-feat|chore|bug(project): Title matching pull request title
+feat|chore|fix(project): Title matching pull request title
 
 A single, tidy commit description (do not merge multiple commit descriptions without editing)
 
-Co-authored by: <coauth@flexpa.com>
+Co-authored-by: Coauthor Name <coauthor@flexpa.com>
+Co-authored-by: Coauthor Name <another-coauthor@flexpa.com>
 ```
 
 ### Changelog
