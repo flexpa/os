@@ -225,8 +225,6 @@ Details on pairing here.
 **Output**:  Ongoing notes. Action items on specific regulatory changes as needed.
 
 ### Ad-hoc
-<<<<<<< Updated upstream
-=======
 #### Design review & scoping
 * **Duration**: As long as it takes (typically starting with 90 minutes)
 
@@ -234,7 +232,6 @@ Details on pairing here.
 
 **Output**: Scoping decisions on work with a rough outline of Milestones. It's possible, if the team feels ready, that the first Milestone meeting takes place during this session, pending attendee discussion and decisions.
 
->>>>>>> Stashed changes
 #### Milestone planning
 * **Duration**: As long as it takes (typically starting with 60 minutes)
 
