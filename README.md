@@ -5,7 +5,8 @@
 1. Make a fork of the os repo. Currently only founders can merge directly to the main repo as we refine processes.
 2. Create a PR from your forked branch
 3. One of the founders will review your PR
-4. Merge!
+4. Address any updates
+5. A cofounder will merge when all checks have passed!
 
 ---
 
