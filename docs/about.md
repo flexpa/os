@@ -4,7 +4,7 @@ description: What are we building?
 
 # 🛰 About Flexpa
 
-## Flexible patient access.
+## Refactoring healthcare.
 
 Simplify health plan access and onboarding. Ready to use with Medicare Advantage.
 
@@ -25,16 +25,20 @@ Our work on these early product prototypes culminated in our publication of a [*
 
 We became increasingly involved in the healthcare standards development community - attending HL7 Connectathons and testing original implementations. By August of year one, we released [**Sero: a set of modern JavaScript Modules for FHIR**](https://www.github.com/flexpa/sero). Flexpa as a product vision began to crystallize soon after.
 
+Building on our work as Automate Medical, we became convinced of the immense opportunity of patient-directed access to their health data, specifically, their claims data. Flexpa believes in putting patients first by giving them access to their health information and claims data when they need it most, and, in a way, they can best use it.
+
+For more on patient access, check out this section in our developer docs: [https://www.flexpa.com/docs/getting-started/patient-access](url)
+
 ## Official Name
 
-Our official corporate name is Automate Medical Inc.
+Our official corporate name is Automate Medical Inc. We operate as Flexpa.
 
 ## Street Address
 
 The company is registered to receive mail at:
 
 ```
-686 Broadview Avenue
-Ottawa, Ontario, Canada
-M4K 2P4
+2261 Market St #4677
+San Francisco, California
+94114
 ```

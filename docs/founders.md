@@ -1,10 +1,10 @@
-# 📚 Founders
+# 📚 Cofounders
 
-## Founders
+## Cofounders
 
 **CEO, Andrew Arruda**
 
-Led policy development of one of the world's largest COVID machine learning government response initiatives at the University of Toronto’s Schwartz Reisman Institute for Technology and Society. Serial entrepreneur. Co-founder/CEO ROSS Intelligence (YC S15), Forbes 30 under 30, and TED speaker.
+Multiple-time founder. Angel investor. Father. Co-founder/CEO ROSS Intelligence (YC S15), Forbes 30 under 30, and TED speaker.
 
 **CTO, Joshua Kelly**
 
