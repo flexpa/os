@@ -42,7 +42,6 @@ This is from the first contact with the company (by email, calendared zoom call,
     1. _Firm conviction that there is BA_T. Should be reasonably confident that N exists, but since often prospects have to ask multiple, detailed follow up questions about the product, it’s ok if the BDR passes off the lead to the Sales Engineer and still needs the Sales Engineer to fully establish N. This can also be discussed on Thursdays in the recurring call between BDR and Sales Engineer where they work through and discuss handoff._
 4. _When does a BDR DQ rather than advance a prospect to the Sales Engineer?_
     1. _When any of B, A, N or T does not exist. If N isn’t fully clear yet, still ok to advance to Sales Engineer._
-    2. _N is defined as:_
 5. _What does a handoff look like?_
     1. _Email from BDR cc’ing in the Sales Engineer, and BDR then moves the deal card from Qualifying to Engaging_
 6. _When does a Sales Engineer have to be on the BDR call?_
