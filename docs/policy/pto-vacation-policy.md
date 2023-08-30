@@ -27,7 +27,8 @@ Here are the public holidays we observe in each country and their observance dat
 | Independence Day          | July 4th         |
 | Labor Day                 | September 4th    |
 | Indigenous People's Day   | October 9th      |
-| Veteran's Day             | Nov 10th         |
+| Veteran's Day             | November 10th    |
+| Thanksgiving Day          | November 23rd    |
 | Christmas Day             | December 25th    |
 
 ### Canada (Ontario)
