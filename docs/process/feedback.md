@@ -26,7 +26,7 @@ Providing _good_ feedback can be hard. There's no one single right way. The most
 
 One popular method[ Radical Candor](https://www.radicalcandor.com/our-approach/). Radical Candor is achieved when you care personally and challenge directly.
 
-<figure><img src="../../.gitbook/assets/radical-candor.png" alt=""><figcaption></figcaption></figure>
+![Radical Candor at Flexpa](../assets/radical-candor.png)
 
 ### Some pro-tips
 
