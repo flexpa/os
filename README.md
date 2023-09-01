@@ -4,6 +4,7 @@
 
 * [🪐 Operating System](docs/index.md)
 * [🛰 About Flexpa](docs/about.md)
+* [🎨 Our Brand](docs/brand.md)
 * [📚 Founders](docs/founders.md)
 * [🌠 Mission](docs/mission.md)
 * [🔍 What makes a Flexpal?](docs/what-makes-a-flexpal.md)
