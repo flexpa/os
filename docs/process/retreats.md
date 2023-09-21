@@ -21,6 +21,15 @@ Preparation for a Flexpa Retreat happens at the start of each quarter. As soon a
 * Flights purchased 
 * List of attendees finalized
 
+**Housing accommodations must have:**
+
+* 1 room per person (utilizing Airbnb, Vrbo, or other short-term rental platform) 
+* Multiple bathrooms 
+* A large dining table that seats 10+ people 
+* Decent reviews, no red flags 
+* Fast wifi speed and reliability 
+* Proximity to activities and resources (grocery stores, etc) 
+
 **By mid-quarter (6 weeks in), we aim to have the following completed:** 
 
 * Agenda drafted 
@@ -32,11 +41,6 @@ Preparation for a Flexpa Retreat happens at the start of each quarter. As soon a
 * Finalized Agenda 
 * Rough draft of the following quarter’s OKRs 
 
-**Housing accommodations must have:**
-
-* 1 room per person (utilizing Airbnb, Vrbo, or other short-term rental platform) 
-* Multiple bathrooms 
-* A large dining table that seats 10+ people 
-* Decent reviews, no red flags 
-* Fast wifi speed and reliability 
-* Proximity to activities and resources (grocery stores, etc) 
+**The week following the retreat, we aim to have the following completed:**
+* The decision as to which Flexpal/s will be leading the next retreat
+* Feedback on each Flexpal has been shared around how they showed up to the retreat
