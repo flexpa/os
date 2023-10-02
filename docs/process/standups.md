@@ -14,10 +14,10 @@ To write a standup note, ask yourself the following questions and post your resp
 
 * How am I feeling out of 10?
 * What am I focussed on today?
-  * What is the most important thing I get done?
-  * Am I blocked?
-  * Am I going to be unavailable? (i.e "Have an important meeting at 2PM, won't be responsive")
+    * What is the most important thing I get done?
+    * Am I blocked?
+    * Am I going to be unavailable? (i.e "Have an important meeting at 2PM, won't be responsive")
 * What can I share about myself?
-  * Am I grateful for something today?
-  * What's my favorite thing to do outside of work?
-  * What did I dream of doing as a kid?
+    * Am I grateful for something today?
+    * What's my favorite thing to do outside of work?
+    * What did I dream of doing as a kid?
