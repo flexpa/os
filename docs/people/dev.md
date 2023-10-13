@@ -7,7 +7,7 @@ Flexpa connects applications to health insurance data. We are looking to grow th
 
 We've built a developer-first platform with rich APIs, hand-curated documentation, and other tools to help applications to build novel patient and provider experiences powered by claims data.
 
-We believe in the power of open standards and open culture. We surround ourselves with excellent people who want to do the best work of their careers. We expect this will be a good role for developers who share our values and want to work on hard problems.
+We believe in the power of open standards and open culture. We surround ourselves with excellent people who want to do the best work of their careers. We expect this will be a good role for developers who share our values and want to work on hard problems where we are growing fast with our early customers.
 
 ## Who We're Looking For
 
