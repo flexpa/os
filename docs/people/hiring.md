@@ -6,17 +6,17 @@ description: Join our team!
 
 Flexpa connects applications to health insurance data.
 
-We've built developer-first platform with rich APIs, hand-curated documentation, and other tools to help applications to build novel patient and provider experiences powered by claims data.
+We've built a developer-first platform with rich APIs, hand-curated documentation, and other tools to help applications to build novel patient and provider experiences powered by claims data.
 
 We believe in the power of open standards and open culture. We surround ourselves with excellent people who want to do the best work of their careers.
 
-## **Our Pitch to You**
+## What We Offer
 
-* Flexpa is working in a hard space that matters to everyone. **We are all patients or will be.**
-* Flexpa has [**experienced founders**](../founders.md). We've been through Y Combinator in S15 and W20.
-* Flexpa is backed by [**world-class technologists, investors, and healthcare practitioners**](https://www.axios.com/pro/health-tech-deals/2022/06/16/flexpa-raises-9m-seed-health-data-sharing).
-* Flexpa has a culture where we [**"put the shopping cart back"**](https://os.flexpa.com/what-makes-a-flexpal/). Our values are different and we're proud of that.
-* Flexpa has **clear and competitive compensation**. On base pay: we will pay you more than average (by role and location). We target **75th percentile** rates for everyone.
+- A purposeful mission of **refactoring healthcare**
+- Mentorship from [**experienced founders**](../founders.md) who have been through Y Combinator in S15 and W20.
+- Support from [**world-class technologists, investors, and healthcare practitioners**](https://www.axios.com/pro/health-tech-deals/2022/06/16/flexpa-raises-9m-seed-health-data-sharing)
+- A unique culture where we [**"put the shopping cart back"**](https://os.flexpa.com/what-makes-a-flexpal/) and uphold values we take pride in
+- **Clear and competitive compensation** targeting the 75th percentile rates
 
 ## Open Roles
 
