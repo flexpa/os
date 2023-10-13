@@ -38,6 +38,7 @@ We believe in the power of open standards and open culture. We surround ourselve
 - Set clear goals for yourself and commit to them in a group setting
 - Design and build APIs that are a joy to use
 - Write documentation that is a joy to read
+- Participate in incident response management
 - Put the shopping cart back
 
 ## Skills & Experience
@@ -53,6 +54,8 @@ We believe in the power of open standards and open culture. We surround ourselve
 - Experience with HL7 FHIR
 - DevOps and infrastructure experience
 - Design experience and in particular UI/UX chops
+- Customer support / success experience
+- Familiarity with products like Plaid
 - Previous startup experience
 
 ## Interview Process
