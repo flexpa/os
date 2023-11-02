@@ -1,4 +1,6 @@
-# GTM Roles
+# 📈 Go to market
+
+## Roles
 
 **BDR:** (Business Development Representative): A BDR’s responsibilities include lead generation, lead qualification / disqualification, outreach, follow up, and appointment setting.
 
@@ -11,7 +13,7 @@
 **Sales Operations Lead:** Key responsibilities include sales forecasting, pipeline analysis, sales KPI management and optimization, management of sales tech stack, legal sales doc drafting and compliance.
 
 
-# BANT
+## BANT
 
 BANT is an acronym that stands for "Budget, Authority, Need, Timing." It provides a simple framework for qualifying prospects in a business-to-business (B2B) sales setting. In order for a prospect to be qualified, each of the following 4 elements must be established:
 
@@ -24,10 +26,10 @@ BANT is an acronym that stands for "Budget, Authority, Need, Timing." It provide
 **Timeline** - If Budget, Authority and Need were met, when would the prospect be planning to go live with Flexpa?
 
 
-# Stages of the Funnel
+## Stages of the Funnel
 
 
-## Stage 1 - Qualifying (BDR)
+### Stage 1 - Qualifying (BDR)
 
 This is from the first contact with the company (by email, calendared zoom call, etc) through to hand off to the Sales Engineer,
 
@@ -49,7 +51,7 @@ This is from the first contact with the company (by email, calendared zoom call,
     2. _Large / Very technical audience_
 
 
-## Stage 2 - Engaging (Sales Engineer)
+### Stage 2 - Engaging (Sales Engineer)
 
 This is from first communications by the Sales Engineer (usually via email) through to the Sales Engineer handing off the prospect to the Solutions Engineer (and making the intro via email - see copy below).
 
@@ -69,7 +71,7 @@ This is from first communications by the Sales Engineer (usually via email) thro
     1. _No, the BDR still has to establish BANT_
 
 
-## Stage 3 - Developing (Solutions Engineer)
+### Stage 3 - Developing (Solutions Engineer)
 
 This is from Sales Engineer’s email intro through to prospect completing full testing flow (defined as successfully integrating with Flexpa and making first API call) 
 
@@ -91,7 +93,7 @@ This is from Sales Engineer’s email intro through to prospect completing full 
     1. _No, the deal stays in the qualifying stage until BANT is established._
 
 
-## Stage 4 - Closed Won (AE)
+### Stage 4 - Closed Won (AE)
 
 This is once the first live mode request occurs.
 
@@ -109,6 +111,6 @@ This is once the first live mode request occurs.
 3. _When do they advance to stage 5_
     1. _After more than 10 billable events have occurred_
 
-## Stage 5: Success and Support (Customer Success and Support)
+### Stage 5: Success and Support (Customer Success and Support)
 
 This is from the first live pull onwards. Goals are to keep them actively using, increase usage, and resolve all bugs that get in the way of usage.
