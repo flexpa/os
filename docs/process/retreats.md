@@ -107,18 +107,19 @@ You are not responsible for:
 
 * Activities that need to be present in some form:
     * Tuesday
-     * Kickoff as retreat opening (Owner: Co-founders)
-     * Start/Stop/Continue style retro [soon after kickoff]
-     * (Optional) JD updates if new Flexpals have joined, or roles have changed,  (Team/ Andrew Arruda)
+       - Kickoff as retreat opening (Owner: Co-founders)
+       - Start/Stop/Continue style retro [soon after kickoff]
+      - (Optional) JD updates if new Flexpals have joined, or roles have changed,  (Team/ Andrew Arruda)
     * Any day
-     * Product roadmap presentation (Owner: Brendan Keeler)
-     * Review and score previous quarter OKRs (Owner: Andrew Arruda)
-     * Discuss upcoming quarter’s OKRs (Owner: Andrew Arruda)
-    * Thursday 
-     * Update Flexpa GPS (Owner: Team / Andrew Arruda)
-     * Pick next retreat organizers
-      * Vote for next quarter’s retreat location
-      * Retreat closing (Owner: Founders)
+       - Product roadmap presentation (Owner: Brendan Keeler)
+       - Review and score previous quarter OKRs (Owner: Andrew Arruda)
+       - Discuss upcoming quarter’s OKRs (Owner: Andrew Arruda)
+    * Thursday
+       - Discuss upcoming quarter’s OKRs (Owner: Andrew Arruda)
+       - Update Flexpa GPS (Owner: Team / Andrew Arruda)
+       - Pick next retreat organizers
+       - Vote for next quarter’s retreat location
+       - Retreat closing (Owner: Founders)
 
 Remember, throughtout agenda planning, the previous planners and the co-founders are always at your disposal to bounce ideas around!
 
