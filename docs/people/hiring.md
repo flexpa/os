@@ -4,31 +4,31 @@ description: Join our team!
 
 # 🚀 Working at Flexpa
 
-At[ Flexpa](https://sandbox.flexpa.com), we're making it easy for patients to share their claims, benefit coverage, medications, and other data from health plans. We're a developer-first platform with rich APIs, robust developer documentation, and other tools to help applications to build novel patient and provider experiences powered by claims data.
+Flexpa connects applications to health insurance data.
 
-If you join us in 2022 you will be an early team member and help us shape decisions about what we are building and why, who we hire, and company culture.
+We've built a developer-first platform with rich APIs, hand-curated documentation, and other tools to help applications to build novel patient and provider experiences powered by claims data.
 
-## **Our Pitch to You**
+We believe in the power of open standards and open culture. We surround ourselves with excellent people who want to do the best work of their careers.
 
-* Flexpa is working in a hard space that matters to everyone. **We are all patients or will be. Access to care is personal.**
-* Flexpa has **experienced founders**. We've been through Y Combinator in S15 and W20.
-* Flexpa has support from **world-class technologists, investors, and healthcare practitioners**.
-* Flexpa has a culture of calm, respect, and a **"put the shopping cart back"** mentality.
-* Flexpa has **clear and competitive compensation**. On base pay: we will pay you more than average (by role and location). We target **75th percentile** rates for everyone.&#x20;
+## What We Offer
 
-**Check out open positions** [**here**](https://flexpa.applytojobs.ca/) **to apply to any role.**
+- A purposeful mission of **refactoring healthcare**
+- Mentorship from [**experienced founders**](../founders.md) who have been through Y Combinator in S15 and W20.
+- Support from [**world-class technologists, investors, and healthcare practitioners**](https://www.axios.com/pro/health-tech-deals/2022/06/16/flexpa-raises-9m-seed-health-data-sharing)
+- A unique culture where we [**"put the shopping cart back"**](https://os.flexpa.com/what-makes-a-flexpal/) and uphold values we take pride in
+- **Clear and competitive compensation** targeting the 75th percentile rates
 
 ## Open Roles
 
 * [🏗 Software Developer](./dev.md)
 
-You can ask questions at [**hiring@flexpa.com**](https://malto:hiring@flexpa.com) but head to [**our hiring page**](https://flexpa.applytojobs.ca/) to apply
+[**Apply to all open roles at on our hiring page**](https://flexpa.applytojobs.ca/) or send an email to [**hiring@flexpa.com**](https://malto:hiring@flexpa.com).
 
-## Commonly Asked Questions&#x20;
+## Commonly Asked Questions
 
 ### Where is Flexpa located?
 
-We all work 100% remotely from home in San Francisco, Toronto, Portland, and a few other cities throughout the US and Canada.
+We all work 100% remotely from home in San Francisco, New York, Toronto, Portland, and a few other cities throughout the US and Canada.
 
 ### Are you okay with remote employment?
 
@@ -67,9 +67,8 @@ If we interview you, you can expect these milestones:
 
 1. You meet our hiring manager for the role
 2. You are invited to complete a work sample test
-3. You complete two call with other team members
-4. We speak with two references you provide
-5. We make an offer
+3. You complete two calls with potential coworkers and with the founders
+4. We make an offer conditional on reference checks
 
 _We hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status._
 

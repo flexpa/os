@@ -29,7 +29,8 @@ This is an onboarding checklist for you to follow (and for the people you're wor
 #### Process
 
 * Participate in the weekly rituals (we’ve sent you invites)
-* Post every morning in #standup how you are feeling and what your focus for the day is
+* Post your first [standup](./standups.md) and repeat this practice every morning in #standup
+* If you're new to GitHub, complete the [Introduction to GitHub](https://github.com/skills/introduction-to-github) and [Communicate using Markdown](https://github.com/skills/communicate-using-markdown) skill development courses. GitHub and Markdown are used extensively at Flexpa and you need to be familiar with them even if you aren't on the product development team.
 
 #### People
 

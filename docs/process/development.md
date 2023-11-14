@@ -248,3 +248,26 @@ Details on pairing here.
 **Purpose**: To break down a bigger product feature into manageable issues that a group of people can get done by a goal date. The primary purpose of the meeting is to brainstorm what we need to do to actually achieve some future state in the product and to transform those ideas into written issues. The secondary purpose is to align the group of contributors and to delegate issues after they are written.
 
 **Output**: A milestone which consists of a set of issues with a goal completion date assigned to individual contributors. There should be a clear understanding of who is working on what, within the context of the project.
+
+## **Former Processes**
+### Goals
+**Purpose**: Goals were groupings of issues. Goals detail the overall arc of an initiative, whereas the individual Issues document discrete, atomic work to be done. Goals have largely been superseded by Milestones.
+
+**Output**: Github Goals are a type of Github Issue we create to document these larger initiatives.
+
+### RFCs
+
+**Purpose**:   Requests for Comment were a type of issue intended to solicit broad feedback on overarching architectural proposals or principles. They did not typically have a strong timebound nature and were somewhat open-ended.
+
+**Output**: The output would be the discussion and decisions that formed in the issue. However, RFCs lack of time sensitivity and priority led to many never formally resolving.
+
+#### Product Retro
+* **Duration**: 60 minutes
+
+**Purpose**: The Product Retro meeting serves to reflect on the most recent development cycle, whether that's a milestone, project, or set cadence of time. The aim is to identify what went well, what didn't go as planned, and what could be improved for future cycles. This session is a core part of continuous improvement and ensures that the team can adapt and refine processes to increase efficiency and product quality. Retro ownership is rotated to allow for different perspectives, inputs, and formats.
+
+**Output**: The primary outputs of the Product Retro meeting are:
+
+- A Figma or another artifact showing discussion and topics
+- A list of action items with clear owners 
+- Notes, recording, or a written summary of discussion
