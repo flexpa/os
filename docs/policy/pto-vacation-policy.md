@@ -11,6 +11,15 @@ description: Flexpa's PTO policy for our US and Canadian employees.
 3. Mark the dates as "Out of Office" dates in your calendar and enable the Google Calendar setting **"decline all new meetings"** to prevent any calendar chaos in the weeks leading up to your time off.&#x20;
 4. Communicate all pending and outstanding tasks to your manager in the days leading up to your time off and add an additional note to your standup to remind the team. We would rather have you over-communicate than under-communicate. Preparation will be key to ensuring that your manager and colleagues are well-prepared for well-deserved time off!&#x20;
 
+## Co-Founder Contact when on PTO
+
+CEO OOO: For all time sensitive needs, contact the COO.
+
+COO OOO: For all time sensitive needs, contact the CEO.
+
+CTO OOO: For all time sensitive needs, contact the Head of Product.
+
+
 ## Company Holidays
 
 Here are the public holidays we observe in each country and their observance dates for the current year (2023).
@@ -27,7 +36,8 @@ Here are the public holidays we observe in each country and their observance dat
 | Independence Day          | July 4th         |
 | Labor Day                 | September 4th    |
 | Indigenous People's Day   | October 9th      |
-| Veteran's Day             | Nov 10th         |
+| Veteran's Day             | November 10th    |
+| Thanksgiving Day          | November 23rd    |
 | Christmas Day             | December 25th    |
 
 ### Canada (Ontario)

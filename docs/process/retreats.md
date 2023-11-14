@@ -20,6 +20,16 @@ Preparation for a Flexpa Retreat happens at the start of each quarter. As soon a
 ### Logistics planning 
 
 **Timeline**
+**Housing accommodations must have:**
+
+* 1 room per person (utilizing Airbnb, Vrbo, or other short-term rental platform) 
+* Multiple bathrooms 
+* A large dining table that seats 10+ people 
+* Decent reviews, no red flags 
+* Fast wifi speed and reliability 
+* Proximity to activities and resources (grocery stores, etc) 
+
+**By mid-quarter (6 weeks in), we aim to have the following completed:** 
 
 1. T minus 9 weeks
     - Housing accommodations booked
@@ -27,7 +37,6 @@ Preparation for a Flexpa Retreat happens at the start of each quarter. As soon a
     - List of attendees finalized
 1. T minus 6 weeks
     - Meals / catering orders submitted and confirmed
-
 
 **Housing accommodations must have:**
 
@@ -85,8 +94,8 @@ You are not responsible for:
 
 * Overall itinerary
     * Retreat activities fit into Tuesday, Wednesday, and Thursday days
-        * Monday is mostly a travel day, but organizing a team dinner for those who arrive before dinner is important for Day 1 camaraderie
-        * Friday is a travel/personal day for everyone
+    * Monday is mostly a travel day, but organizing a team dinner for those who arrive before dinner is important for Day 1 camaraderie
+    * Friday is a travel/personal day for everyone
     * Game time itinerary management will always be the case. People need breaks, things go longer, shorter, etc
 
 * What activities should be included?
@@ -98,17 +107,21 @@ You are not responsible for:
 
 * Activities that need to be present in some form:
     * Tuesday
-        * Kickoff as retreat opening (Owner: Co-founders)
-        * Start/Stop/Continue style retro [soon after kickoff]
-        * (Optional) JD updates if new Flexpals have joined, or roles have changed,  (Team/ Andrew Arruda)
+     * Kickoff as retreat opening (Owner: Co-founders)
+     * Start/Stop/Continue style retro [soon after kickoff]
+     * (Optional) JD updates if new Flexpals have joined, or roles have changed,  (Team/ Andrew Arruda)
     * Any day
-        * Product roadmap presentation (Owner: Brendan Keeler)
-        * Review and score previous quarter OKRs (Owner: Andrew Arruda)
-        * Discuss upcoming quarter’s OKRs (Owner: Andrew Arruda)
+     * Product roadmap presentation (Owner: Brendan Keeler)
+     * Review and score previous quarter OKRs (Owner: Andrew Arruda)
+     * Discuss upcoming quarter’s OKRs (Owner: Andrew Arruda)
     * Thursday 
-        * Update Flexpa GPS (Owner: Team / Andrew Arruda)
-        * Pick next retreat organizers
-        * Vote for next quarter’s retreat location
-        * Retreat closing (Owner: Founders)
+     * Update Flexpa GPS (Owner: Team / Andrew Arruda)
+     * Pick next retreat organizers
+      * Vote for next quarter’s retreat location
+      * Retreat closing (Owner: Founders)
 
 Remember, throughtout agenda planning, the previous planners and the co-founders are always at your disposal to bounce ideas around!
+
+**The week following the retreat, we aim to have the following completed:**
+* The decision as to which Flexpal/s will be leading the next retreat
+* Feedback on each Flexpal has been shared around how they showed up to the retreat

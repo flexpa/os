@@ -1,65 +1,106 @@
 # 🔊 Feedback 
 
-Flexpa believes that providing critical feedback regularly helps promote a culture of continuous improvement and open communication.&#x20;
+## Kinds of Feedback
 
-We encourage all team members to give and receive feedback to promote personal and professional growth.
+At Flexpa, we believe in the value of incorporating various feedback types, each serving distinct purposes that contribute to our continuous growth and improvement. We recognize and emphasize three essential categories of feedback: appreciation, coaching, and evaluation.
 
-## When to give feedback
+### Appreciation Feedback
 
-**Direct Communication First**: All Flexpals should first attempt to address behavior they disagree with directly with the other team member, respectfully and professionally. They should discuss their concerns and provide specific examples of the behavior they find problematic. The goal is to reach a mutual understanding and resolve the issue together as soon as possible.
+* Expressing genuine gratitude, recognition, and encouragement.
+* Fostering a positive atmosphere and reinforcing positive behaviors.
 
-**Direct Communication Again**: If the behavior persists despite the initial conversation, the employee should approach the other team member again and reiterate their concerns. The goal is to reiterate the feedback previously provided or additional critical feedback and to resolve the issue or issues promptly.
+### Coaching Feedback
 
-**Escalate to a Manager**: If direct communication does not resolve the issue or issues, the employee can seek help from their manager, who will act as a mediator. The mediator may also loop in Andrew. The mediator should facilitate a meeting between the two team members and help them communicate effectively, clarify misunderstandings, and find a path forward that works for both parties.
+* Supporting professional development through insights and guidance.
+* Empowering individuals to enhance skills and achieve aspirations.
 
-**Management Intercession**: If the issue is still not resolved, the employee can escalate the complaint again to their manager. The manager will listen to both parties again, review relevant documentation, and make an impartial decision based on Flexpa's values and policies.
+### Evaluation Feedback
 
-We recognize the importance of confidentiality and respecting the privacy of all involved parties during the feedback process. Any feedback shared should be kept between the involved parties and the management and not shared with others who are not involved in the situation.&#x20;
+* Measuring performance against standards and expectations.
+* Maintaining alignment with organizational goals for excellence.
 
-At Flexpa, we prioritize creating a safe and productive work environment for all team members. While the process outlined above is the ideal path for addressing behavior concerns, we understand that each situation is unique, and this process may only be the best fit in some cases. If you feel uncomfortable or unsafe addressing a behavior concern directly or if the behavior is severe, please reach out to your manager to discuss the best way to move forward.
+## Giving Feedback
 
-Lastly, the above process is not intended for clearly unacceptable or illegal behavior. Employees should immediately escalate the matter to management if the behavior is inappropriate or unlawful.
+We believe that providing feedback regularly helps maintain and grow our culture of continuous improvement and open communication. 
 
-## How to give feedback
+All Flexpals are encouraged to give and receive feedback to promote personal and professional growth.
 
-Providing _good_ feedback can be hard. There's no one single right way. The most important thing is to find something that works.
+### Ask for Buy-In
 
-One popular method[ Radical Candor](https://www.radicalcandor.com/our-approach/). Radical Candor is achieved when you care personally and challenge directly.
+* Ask if the person is open to receiving feedback before sharing your feedback: “Are you ready to hear some feedback?”
 
-<figure><img src="../../.gitbook/assets/radical-candor.png" alt=""><figcaption></figcaption></figure>
+### Don’t Bottle It Up
 
-### Some pro-tips
+* Avoiding honest criticism to protect feelings is actually harmful.
+* When you withhold feedback to avoid an uncomfortable conversation, you are depriving someone of the chance to grow.
 
-**Praise in public, criticize in private.**&#x20;
+### Share Appreciation Often
 
-* When people receive critical feedback in front of their peers they naturally feel defensive and are less likely to internalize feedback**.**&#x20;
-* Ask if the person is open to receiving feedback before sharing your feedback.
+* Appreciation satisfies a basic human need for recognition and connection.
+* Appreciation motivates us to keep working hard and to improve our performance, as it reinforces our sense of value and contribution.
 
-**Beware of** [**Ruinous Empathy**](https://www.radicalcandor.com/our-approach/)**.**
+### Be Specific
 
-* This is often the default quadrant for caring people
-* When you withhold feedback for the sake of avoiding an uncomfortable conversation you deprive your peer of long term growth and hinder the rest of the team’s productivity
+* Broad appreciation can feel insincere. Broad evaluative or coaching feedback always begs for examples.
+* Provide the potential impact of this feedback on others - whether it's regarding morale, quality of work, perception, etc.
 
-**Positive feedback is important.**
+### Share Fast
 
-* An HBR study found that a ratio of \~5 incidences of positive feedback to 1 incidence of negative is optimal if you want to ensure that your negative feedback is fully trusted, listened to and internalized
+* Context and emotions are lost if feedback isn’t shared immediately
 
-**Avoid broad statements and be specific (for positive feedback too)**
+## Receiving Feedback
 
-* e.g. avoid statements like “Your communication needs improving”, instead provide feedback like “During your presentation, your slides had typos on slides 3 and 5. When typos slip through I fear it makes our team appear sloppy.”
-* e.g, avoid statements like “That was a great presentation”, instead provide feedback like “I really liked the animation you added on slide 3. I think it perfectly highlights our product’s value and showed that our team pays attention to detail”
-  * Broad positive feedback can feel insincere, “they’re just saying that to be nice”
+At Flexpa, we believe receiving feedback well is a skill that can help you learn, grow, and improve your performance in various domains of life. We also recognize that feedback can trigger negative emotions, defensive reactions, and distorted interpretations that hinder your ability to benefit from it. 
 
-**When giving feedback offer to help or propose a solution.**
+### Cultivate a Growth Identity
 
-* See the example above, where the feedback suggested adding the Grammarly extension as an extra pair of eyes
+* Embrace a mindset of learning and change from feedback.
+* Differentiate between coaching for improvement and evaluation for judgment.
 
-**Prefer to provide feedback immediately.**
+### Separate Types of Feedback
 
-* Often there is lost context if feedback isn’t shared immediately
+* Recognize appreciation, coaching, and evaluation as distinct feedback categories.
+* Understand their purposes and address specific needs.
 
-### See also
+### Understand Before Evaluating
 
-* [Thanks for the Feedback](https://www.penguinrandomhouse.com/books/313485/thanks-for-the-feedback-by-douglas-stone-and-sheila-heen/)
-* [Difficult Conversations: How to Discuss What Matters Most](https://eye.hms.harvard.edu/files/eye/files/difficult-conversations-summary.pdf)
+* Comprehend feedback's origin, content, and direction.
+* Listen, ask questions, and avoid assumptions.
 
+### Shift to Difference Spotting
+
+* Avoid immediate dismissal or argument.
+* Analyze differences in data, interpretations, and values.
+
+### Manage Emotional Responses
+
+* Be prepared, mindful, and assertive.
+* Separate emotions from feedback and express needs.
+
+### Problem-Solving for Possibilities
+
+* Transform feedback disputes into exploration.
+* Generate options addressing underlying interests.
+
+### Implement Feedback Effectively
+
+* Prioritize actionable feedback relevant to goals.
+* Experiment and track progress for continuous improvement.
+
+### Decide What to Do with the You’re Given
+
+* Receiving feedback well doesn't mean you always have to take the feedback.
+* Receiving feedback means engaging in the conversation skillfully and making thoughtful choices about using the information and what you're learning.
+
+## Flexpa’s Culture of Continuous Improvement
+
+We’re committed to fostering a culture of continuous improvement and open communication through regular feedback. This approach encourages all Flexpals to give and receive feedback, promoting personal and professional growth across the organization.
+
+By incorporating appreciation, coaching, and evaluation feedback types, Flexpa aims to cultivate a dynamic feedback ecosystem that nurtures positivity, supports development, and aligns efforts with organizational excellence.
+
+## See also
+
+* Radical Candor
+* Thanks for the Feedback
+* Crucial Conversations
+* Difficult Conversations
