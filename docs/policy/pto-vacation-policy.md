@@ -26,7 +26,7 @@ Here are the public holidays we observe in each country and their observance dat
 
 ### United States
 
-| Holiday                   | Observance Date  |
+| Holiday                   | Observance Date(s)  |
 | ------------------------- | ---------------- |
 | New Year's Day            | January 2nd      |
 | Martin Luther King Jr Day | January 16th     |
@@ -37,7 +37,7 @@ Here are the public holidays we observe in each country and their observance dat
 | Labor Day                 | September 4th    |
 | Indigenous People's Day   | October 9th      |
 | Veteran's Day             | November 10th    |
-| Thanksgiving Day          | November 23rd    |
+| Thanksgiving Day          | November 23rd & 24th    |
 | Christmas Day             | December 25th    |
 
 ### Canada (Ontario)
