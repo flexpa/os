@@ -3,19 +3,18 @@
 !!! success "Apply"
     Apply to this role [**here**](https://flexpa.applytojobs.ca/)
 
-Flexpa connects applications to health insurance data. We are looking to grow the team with a software developer who is excited to work on our mission of refactoring healthcare.
+Flexpa connects applications to identified claims data. Users can effortlessly share claims data with your application in seconds. We’ve created the fastest, simplest, HIPAA compliant method for accessing identified claims data from anyone.
 
-We've built a developer-first platform with rich APIs, hand-curated documentation, and other tools to help applications to build novel patient and provider experiences powered by claims data.
+We surround ourselves with excellent people who want to do the best work of their careers.
 
-We believe in the power of open standards and open culture. We surround ourselves with excellent people who want to do the best work of their careers. We expect this will be a good role for developers who share our values and want to work on hard problems where we are growing fast with our early customers.
+We're seeking a unique software developer with a deep, esoteric knowledge in healthcare APIs, data, and standards. We're not just looking for relevant work experience – we want someone who has dived into the deep end, possibly having written scratch implementations of healthcare applications or experimented with personal health record apps. Your obsessive personal interest and specialization in healthcare technology means that you would be doing this kind of work even if Flexpa didn't exist.
 
 ## Who We're Looking For
 
-- A naturally curious and empathetic person who is excited about working on Flexpa
-- Possesses a deep sense of understanding and care about the human relationships we form with our customers
-- Open to sharing support responsibilities and actively extends our support capacity
-- Brings a unique skill set that complements our existing team
-- Possesses overlooked indicators of success like grit and a genuine willingness to talk to customers
+- A software developer with a profound understanding, experience, and obsessive interest in healthcare APIs, data, and standards
+- A specialist who can provide unique insights and expertise in healthcare technology to a well-rounded team
+- A naturally curious and empathetic person who is excited about working with Flexpa and refactoring healthcare
+- A gritty person who is excited about working on hard problems at a startup
 
 ## What We Offer
 
@@ -43,15 +42,15 @@ We believe in the power of open standards and open culture. We surround ourselve
 
 ## Skills & Experience
 
-- 2+ years of full-time experience as a software developer
-- Proficiency in TypeScript and functional programming patterns
-- Familiarity with tools in our stack such as React, Fastify, Next.js, PostgreSQL, and Redis
-- History of shipping
+- Deep, specialized knowledge and experience in healthcare APIs, data, and standards and in particular HL7 FHIR
+- Proficiency, but not necessarily expertise, in TypeScript and functional programming patterns
+- Familiarity with tools in our stack such as Node.js, REST APIs, Fastify, React, Next.js, PostgreSQL, Redis, and AWS
+- A history of innovative contributions in healthcare technology
+- A history of shipping
 
 ## Bonus Points For
 
 - Experience building APIs as a product
-- Experience with HL7 FHIR
 - DevOps and infrastructure experience
 - Design experience and in particular UI/UX chops
 - Customer support / success experience
