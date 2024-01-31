@@ -1,4 +1,4 @@
-# 🌱 Flexpa is a Deliberately Developmental Organization
+# 🌱 Flexpa is a DDO
 
 ## What is a DDO?
 
