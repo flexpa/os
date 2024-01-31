@@ -9,7 +9,10 @@ Flexpa's public operating system
 * [🎨 Our Brand](docs/brand.md)
 * [📚 Founders](docs/founders.md)
 * [🌠 Mission](docs/mission.md)
+
+## Culture 
 * [🔍 What makes a Flexpal?](docs/what-makes-a-flexpal.md)
+* [🌱 Flexpa is a DDO](docs/ddo.md)
 
 ### Process
 * [🤝 1:1s](docs/process/1-1s.md)

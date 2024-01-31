@@ -26,6 +26,9 @@ markdown_extensions:
   - tables
 nav:
   - ...
+  - Culture:
+    - what-makes-a-flexpal.md
+    - ddo.md
   - Process:
     - ... | flat | process/*.md
   - Policy:
