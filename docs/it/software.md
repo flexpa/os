@@ -146,11 +146,7 @@ We use software selectively and intentionally. This list is designed to be exhau
       </td>
       <td>Frontend previews and deployment</td>
       <td>
-        <a
-          href="http://vercel.com/teams/invite/wxOILJotd4MmizBAhDVpQleDmUwbuSI5"
-          >Self-sign up</a
-        >
-        (use @flexpa.com account)
+        CTO onboarding
       </td>
     </tr>
     <tr>
