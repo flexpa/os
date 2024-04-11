@@ -14,9 +14,9 @@ extra:
   homepage: https://flexpa.com
   generator: false
   social:
-    - icon: fontawesome/brands/twitter 
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/flexpa
-    - icon: fontawesome/brands/github 
+    - icon: fontawesome/brands/github
       link: https://github.com/flexpa
 repo_url: https://github.com/flexpa/os
 repo_name: flexpa/os
@@ -24,18 +24,21 @@ edit_uri: edit/master/docs/
 markdown_extensions:
   - admonition
   - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 nav:
   - ...
   - Culture:
-    - what-makes-a-flexpal.md
-    - ddo.md
+      - what-makes-a-flexpal.md
+      - ddo.md
   - Process:
-    - ... | flat | process/*.md
+      - ... | flat | process/*.md
   - Policy:
-    - ... | flat | policy/*.md
+      - ... | flat | policy/*.md
   - People:
-    - ... | flat | people/*.md
+      - ... | flat | people/*.md
   - IT:
-    - ... | flat | it/*.md
+      - ... | flat | it/*.md
 plugins:
   - awesome-pages
