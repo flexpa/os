@@ -1,4 +1,6 @@
 # 🪐 Operating System
+![Flexpa brand avatars](./assets/Illustration-hero.png)
+
 
 This is [Flexpa's](https://flexpa.com) operating system.
 
