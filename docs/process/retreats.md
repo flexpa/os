@@ -126,3 +126,15 @@ Remember, throughtout agenda planning, the previous planners and the co-founders
 **The week following the retreat, we aim to have the following completed:**
 * The decision as to which Flexpal/s will be leading the next retreat
 * Feedback on each Flexpal has been shared around how they showed up to the retreat
+
+---
+
+## Travel
+
+Be sure to book your travel as soon as possible. We recommend booking flights at least 6 weeks in advance to get the best rates.
+
+When booking your flights, please keep the following in mind:
+
+* **Arrival**: Please plan to arrive on Monday evening before the retreat starts on Tuesday morning.
+* **Departure**: Please plan to depart after Thursday evening when the retreat ends.
+* **Expensing**: Please book economy class flights book economy class flights to an airport close to the retreat. You will be reimbursed for your flights after you submit your receipt on your next pay cycle.
