@@ -136,5 +136,5 @@ Be sure to book your travel as soon as possible. We recommend booking flights at
 When booking your flights, please keep the following in mind:
 
 * **Arrival**: Please plan to arrive on Monday evening before the retreat starts on Tuesday morning.
-* **Departure**: Please plan to depart after Thursday evening when the retreat ends.
+* **Departure**: Please plan to depart after Thursday evening when the retreat ends. Many Flexpals choose to leave Friday morning but sometimes a Thursday evening departure is necessary and the team will understand.
 * **Expensing**: Please book economy class flights book economy class flights to an airport close to the retreat. You will be reimbursed for your flights after you submit your receipt on your next pay cycle.
