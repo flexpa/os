@@ -54,11 +54,6 @@ We use software selectively and intentionally. This list is designed to be exhau
       <td>Onboarding (CTO)</td>
     </tr>
     <tr>
-      <td>🧪 dScout</td>
-      <td>End user testing</td>
-      <td>Invite only (depending on role)</td>
-    </tr>
-    <tr>
       <td>🎨 FigJam</td>
       <td>White-boarding</td>
       <td>Onboarding task (Ops)</td>
@@ -109,6 +104,11 @@ We use software selectively and intentionally. This list is designed to be exhau
       <td>🚦Instatus</td>
       <td>Status page</td>
       <td><a href="https://www.instatus.com">Self-sign up</a></td>
+    </tr>
+    <tr>
+      <td>🧪 Respondent</td>
+      <td>Endpoint e2e user testing</td>
+      <td>Invite only (depending on role)</td>
     </tr>
     <tr>
       <td>💰 Stripe</td>
