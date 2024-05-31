@@ -10,11 +10,10 @@ Create an [access control request](./access-control.md) on GitHub marked as "off
 !!! info "Access Control"
     You should review the [Access Control](./access-control.md) process at this point to ensure completeness
 
-### Legal: 
-
+### Legal 
 * Review with the employee their ongoing commitments to our information security program after employment ends. This can be found within their letter of employment (offer letter) and confidentiality agreements. 
-* Make sure the employee signs their confidentiality agreement before their last day of employment/ 
-File an ROE (Record of Employment) for the employee and ensure you receive e-confirmation afterwards (applies to Canadian employees)
+* Make sure the employee signs their confidentiality agreement before their last day of employment
+* File an ROE (Record of Employment) for the employee and ensure you receive e-confirmation afterwards (applies to Canadian employees)
 
 ### Payroll 
 * Initiate payroll offboarding procedures within the payroll system itself (Gusto for US employee, Humi for Canadian employees). This will require you to set a clear end date and initiate a one-off payroll transaction depending on whether or not the separation is voluntary or involuntary (termination). 
@@ -30,4 +29,4 @@ File an ROE (Record of Employment) for the employee and ensure you receive e-con
 
 ### Vendor Management: 
 * Work with the SecOps team (CTO, COO, CoS) to review the Vanta list of vendors and ensure that ownership and admin privileges are reassigned to the appropriate contact before access is terminated. 
-* Confirm that payment method is up to date 
+* Confirm that payment method is up to date.
