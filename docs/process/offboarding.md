@@ -15,10 +15,12 @@ Create an [access control request](./access-control.md) on GitHub marked as "off
 * Make sure the employee signs their confidentiality agreement before their last day of employment
 * File an ROE (Record of Employment) for the employee and ensure you receive e-confirmation afterwards (applies to Canadian employees)
 
-### Payroll 
+### Payroll & Benefits
 * Initiate payroll offboarding procedures within the payroll system itself (Gusto for US employee, Humi for Canadian employees). This will require you to set a clear end date and initiate a one-off payroll transaction depending on whether or not the separation is voluntary or involuntary (termination). 
-* Coordinate payout any remaining unpaid wages with Chief of Staff or COO. Separation and/or termination laws vary depending on country and state so make sure that the steps taken have been reviewed and approved by US or Canadian counsel. More specifically, confirm that the steps you are taking to terminate the employee meet the minimum requirements for the state, provence, and country the employee resides in. 
-* Include $50 as a reimbursement for any shipping supplies needed for equipment return. 
+* Coordinate payout any remaining unpaid wages with Chief of Staff or COO. Separation and/or termination laws vary depending on country and state so make sure that the steps taken have been reviewed and approved by US or Canadian counsel. More specifically, confirm that the steps you are taking to terminate the employee meet the minimum requirements for the state, provence, and country the employee resides in.
+* Employees may choose to continue to their health insurance coverage at their own expense under COBRA. To learn more about eligibility and the process, [read to this artcile published by Gusto](https://support.gusto.com/article/112333639100000/Federal-COBRA-and-state-continuation) 
+* Include $50 as a reimbursement for any shipping supplies needed for equipment return.
+
 
 ### Equity 
 * Coordinate any stock option exercises with Chief of Staff and COO. All stock option agreements are managed and maintained within Carta and are managed alongside CoS, COO, and Canadian Counsel. 
