@@ -27,7 +27,7 @@ We became increasingly involved in the healthcare standards development communit
 
 Building on our work as Automate Medical, we became convinced of the immense opportunity of patient-directed access to their health data, specifically, their claims data. Flexpa believes in putting patients first by giving them access to their health information and claims data when they need it most, and, in a way, they can best use it.
 
-For more on patient access, check out this section in our developer docs: [https://www.flexpa.com/docs/getting-started/patient-access](url)
+For more on patient access, check out this section in our developer docs: https://www.flexpa.com/docs/getting-started/patient-access
 
 ## Official Name
 
