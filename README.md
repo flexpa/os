@@ -18,7 +18,7 @@ Flexpa's public operating system
 * [🤝 1:1s](docs/process/1-1s.md)
 * [🛂 Access control](docs/process/access-control.md)
 * [🗣 Communication](docs/process/communication.md)
-* [💾 Development](docs/process/development.md)
+* [💾 Product](docs/process/product.md)
 * [🔊 Feedback](docs/process/feedback.md)
 * [🌟 GPS](docs/process/gps.md)
 * [📔 Investor Updates](docs/process/investor-updates.md)
