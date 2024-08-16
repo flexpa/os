@@ -10,13 +10,11 @@ This document exists as a comprehensive version of Flexpa's product development 
 
 **Output**:
 
+All outputs for this process are part of our company level [OKR process](/process/okrs), which includes:
+
 - Quarterly collaboration with other roles on a list of objectives and associated key results that serve as measurable goals for the team
-- Product OKRs defined in Github with an OKR tag
-- OKR progress is shown in Admin.
 - Product direction based on OKR progress
 - Weekly maintenance and updating of OKRs
-
-See also: [OKRs](/process/okrs)
 
 ## Roadmap
 
