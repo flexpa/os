@@ -28,6 +28,20 @@ Each L1 Objective and its corresponding L2 Objectives are assigned a dedicated F
 ## Setting OKRs
 When establishing OKRs, we adopt a scientific approach to avoid setting unattainable goals, where achieving a perfect score seems impossible or unrealistic. OKRs are not static mandates. We evaluate our OKRs to ensure they align with the most important work at Flexpa and adjust them throughout the quarter if necessary. OKRs are scored, and new ones are agreed upon at our quarterly in-person retreat, fostering reflection, alignment, and goal setting.
 
+In writing Objectives and Key Results, we keep these heuristics in mind:
+* Objectives:
+    * Must articulate a single high leve goal.
+    * May not necessarily be measureable themselves, but can only be successful based on its KRs
+* Key Results:
+    * Should be guided by the SMART framework:
+        * Specific - Target a well-defined area
+        * Measurable - Have a quantifiable element to serve as an indicator of success
+        * Achievable - Be ambitious but attainable with allocated resources
+        * Realistic - Must be feasible within the contraints of the team's capabilities, time, and other priorities
+        * Time-bound - Have an established deadline for measurement
+    * That track 0-1 workflows or products should consider drafting key results that the team can have the "right to unlock" when progress on preceeding KRs have been achieved. This prevents tracking 0 progress against KRs that we do not have enough information to determine realisticness at the start of the quarter yet. 
+    * Should not be "task" oriented without clear articulation a desired outcome to those tasks. 
+
 ## Tracking OKRs
 Within the first two weeks of a quarter, all L2 O owners should draft a written report outlining the tasks they plan to accomplish and accompanying target completion dates for each task. This document provides the company level Objective owner with context into the quarter’s plan and allows them to rapidly triage or ask follow up questions where necessary.
 
