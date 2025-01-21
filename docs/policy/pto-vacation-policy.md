@@ -17,40 +17,41 @@ CEO OOO: For all time sensitive needs, contact the COO.
 
 COO OOO: For all time sensitive needs, contact the CEO.
 
-CTO OOO: For all time sensitive needs, contact the Head of Product.
+CTO OOO: For all time sensitive needs, contact the COO and CEO.
 
 
 ## Company Holidays
 
-Here are the public holidays we observe in each country and their observance dates for the current year (2024).
+Here are the public holidays we observe in each country and their observance dates for 2025.
 
 ### United States
 
 | Holiday                   | Observance Date  |
 | ------------------------- | ---------------- |
-| New Year's Day            | January 1st & 2nd      |
-| Martin Luther King Jr Day | January 15th     |
-| Presidents Day            | February 19th    |
-| Memorial Day              | May 27th         |
+| New Year's Day            | January 1st      |
+| Martin Luther King Jr Day | January 20th     |
+| Presidents Day            | February 17th    |
+| Memorial Day              | May 26th         |
 | Juneteenth                | June 19th        |
 | Independence Day          | July 4th         |
-| Labor Day                 | September 2nd    |
-| Indigenous People's Day   | October 14th      |
+| Labor Day                 | September 1st    |
+| Indigenous People's Day   | October 13th      |
 | Veteran's Day             | November 11th    |
-| Thanksgiving Day          | November 28th & 29th    |
+| Thanksgiving Day          | November 27th & 28th    |
 | Christmas Holiday             | December 25th & 26th    |
 
 ### Canada (Ontario)
 
 | Holiday          | Observance Date  |
 | ---------------- | ---------------- |
-| New Year's Day   | January 1st & 2nd      |
-| Family Day       | February 19th    |
-| Good Friday      | March 29th        |
-| Victoria Day     | May 20th         |
+| New Year's Day   | January 1st      |
+| Family Day       | February 17th    |
+| Good Friday      | April 18th        |
+| Easter Monday    | April 21st        |
+| Victoria Day     | May 19th         |
 | Canada Day       | July 1st         |
-| Civic Holiday    | August 5th       |
-| Labour Day       | September 2nd    |
+| Civic Holiday    | August 4th       |
+| Labour Day       | September 1st    |
 | Thanksgiving Day | October 14th      |
 | Rememberance Day | November 11th      |
 | Christmas Day    | December 25th    |
