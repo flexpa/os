@@ -42,18 +42,5 @@ Here are the public holidays we observe in each country and their observance dat
 
 ### Canada (Ontario)
 
-| Holiday          | Observance Date  |
-| ---------------- | ---------------- |
-| New Year's Day   | January 1st      |
-| Family Day       | February 17th    |
-| Good Friday      | April 18th        |
-| Easter Monday    | April 21st        |
-| Victoria Day     | May 19th         |
-| Canada Day       | July 1st         |
-| Civic Holiday    | August 4th       |
-| Labour Day       | September 1st    |
-| Thanksgiving Day | October 14th      |
-| Rememberance Day | November 11th      |
-| Christmas Day    | December 25th    |
-| Boxing Day       | December 26th    |
+A list of days can be seen at: https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays.
 
