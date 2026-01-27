@@ -29,7 +29,7 @@ regex==2023.12.25
 requests==2.32.0
 setuptools==70.0.0
 six==1.16.0
-urllib3==2.2.2
+urllib3==2.6.3
 watchdog==4.0.0
 wcmatch==8.5.1
 wheel==0.46.2
