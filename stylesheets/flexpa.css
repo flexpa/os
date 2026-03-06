@@ -1,0 +1,8 @@
+[data-md-color-scheme="flexpa"] {
+  --md-primary-fg-color:    #D0DDD1;
+  --md-primary-bg-color:    #0D2019;
+  --md-typeset-a-color:     #00585D;
+  --md-default-fg-color--light: #4A5853;
+  --md-accent-fg-color:     var(--md-accent-fg-color);
+  --md-accent-bg-color:     var(--md-accent-bg-color);
+}
