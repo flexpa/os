@@ -64,7 +64,7 @@ Our illustrations carry forward our brand in several ways:
 
 
 ## Flexpa naming conventions
-While not a visual element, naming conventions and a consistent voice are important parts of a person’s perception of brand. Flexpa’s tools have descriptive names, so to both retain our branding and ensure clarity, we append the word “Flexpa” at the beginning of each tool’s name. For example, Flexpa API, Flexpa Link, and Flexpa Portal. 
+While not a visual element, naming conventions and a consistent voice are important parts of a person’s perception of brand. Flexpa’s tools have descriptive names, so to both retain our branding and ensure clarity, we append the word “Flexpa” at the beginning of each tool’s name. For example, Flexpa API, Flexpa Consent, and Flexpa Portal. 
 
 ---
 
