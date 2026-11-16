@@ -18,12 +18,7 @@ We use software selectively and intentionally. This list is designed to be exhau
     <tr>
       <td>🔑 1Password</td>
       <td>Password manager</td>
-      <td>
-        <a
-          href="https://flexpa.1password.com/teamjoin/invitation/OUXDZTEOCZA57E2QDLGVJNZICY"
-          >Self-sign up</a
-        >
-      </td>
+      <td>Onboarding (CTO)</td>
     </tr>
     <tr>
       <td>🆔 Auth0</td>
